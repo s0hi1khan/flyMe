@@ -63,7 +63,7 @@ const Search = () => {
             </div>
           </div>
 
-          <button className='btn btnBlock flex'>Search Flights</button>
+          <button className='btn btnBlock'>Search Flights</button>
         </div>
       </div>
     </div>

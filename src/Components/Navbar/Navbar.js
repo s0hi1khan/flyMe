@@ -12,15 +12,15 @@ const Navbar = () => {
     setActive("navBarMenu showNavBar")
   }
   const removeNavBar=()=>{
-    setActive("navBarMenu removeNavBar")
+    setActive("navBarMenu")
   }
 // bg add to second navbar
-  const [noBg, setBg] = useState('navBarTwo')
+  const [noBg, addBg] = useState('navBarTwo')
   const addBgColor=()=>{
     if(window.scrollY >= 10)
-      setBg("navBarTwo navbar_with_bg")
+      addBg("navBarTwo navbar_with_bg")
     else{
-      setBg('navBarTwo')
+      addBg('navBarTwo')
     }
   }
   window.addEventListener('scroll',addBgColor)
@@ -28,12 +28,12 @@ const Navbar = () => {
   return (
     <div className='navbar flex'>
         <div className="navBarOne flex">
-          <div>
+          <div> 
             <SiConsul className='icon'/>
           </div>
-          <div className="flex">
-            <li className='flex icon'><BsPhoneVibrate />Support</li>
-            <li className='flex icon'><AiOutlineGlobal />Languages</li>
+          <div className="none flex">
+            <li className='flex icon'><BsPhoneVibrate/>Support</li>
+            <li className='flex icon'><AiOutlineGlobal/>Languages</li>
           </div>
           <div className="atb flex">
             <span>Sign In</span>
@@ -42,7 +42,7 @@ const Navbar = () => {
         </div>
         <div className={noBg}>
           <div className="logoDiv">
-            <img src={logo} alt="" className='logo' />
+            <img src={logo} alt="flyMe" className='logo' />
           </div>
           <div className={active}>
             <ul className="menu flex">
@@ -50,11 +50,11 @@ const Navbar = () => {
               <li onClick={removeNavBar} className="listItem">About</li>
               <li onClick={removeNavBar} className="listItem">Offers</li>
               <li onClick={removeNavBar} className="listItem">Seats</li>
-              <li onClick={removeNavBar} className="listItem">Destination</li>
+              <li onClick={removeNavBar} className="listItem">Destinations</li>
             </ul>
             <button className='btn flex btnOne'>Contact</button>
           </div>
-          {/* <button class Name='btn flex btnTwo'>Contact</button> */}
+          {/* <button class Name='btn flex btnTwo'>Contact</button> */} 
           <div onClick={showNavBar} className="toggleIcon">
             <CgMenu className='icon'/>
           </div>

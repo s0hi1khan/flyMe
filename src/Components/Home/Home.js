@@ -7,7 +7,7 @@ const Home = () => {
     <div className='home flex container'>
 
       <div className="maintext">
-      <h1>Create Ever Lasting Memories with Us</h1>
+        <h1>Create Ever Lasting Memories with Us</h1>
       </div>
 
       <div className="homeImages flex">
@@ -16,7 +16,7 @@ const Home = () => {
           <video src={video} loop autoPlay muted className='video'></video>
         </div>
 
-        <img src={aeroplane} alt=""  className='plane'/>
+        <img src={aeroplane} alt="" className='plane'/>
       </div>
 
     </div>
