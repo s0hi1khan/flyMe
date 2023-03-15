@@ -1,33 +1,19 @@
 {
   "files": {
-    "main.css": "/flyMe/static/css/main.c2accbdb.css",
-    "main.js": "/flyMe/static/js/main.2f3ea3d6.js",
+    "main.css": "/flyMe/static/css/main.b67ed35f.css",
+    "main.js": "/flyMe/static/js/main.0ac3f117.js",
     "static/js/787.a21d4119.chunk.js": "/flyMe/static/js/787.a21d4119.chunk.js",
     "static/media/video2.mp4": "/flyMe/static/media/video2.0bca23ec6dd35d017162.mp4",
-    "static/media/traveler3.jpg": "/flyMe/static/media/traveler3.41901dde6ae30dbbe8a5.jpg",
-    "static/media/dubai.jpg": "/flyMe/static/media/dubai.74bc4530f18ea63077b0.jpg",
-    "static/media/london.jpg": "/flyMe/static/media/london.4cbc8f27732de3e19e3c.jpg",
-    "static/media/crew2.jpg": "/flyMe/static/media/crew2.ba5518af5451b1723d55.jpg",
-    "static/media/crew1.jpg": "/flyMe/static/media/crew1.f30f2c74d0592f9cbc73.jpg",
-    "static/media/traveler2.jpg": "/flyMe/static/media/traveler2.308066b16bd2b36b075f.jpg",
-    "static/media/newYork.jpg": "/flyMe/static/media/newYork.a772d521b6ba833883be.jpg",
-    "static/media/delhi.jpg": "/flyMe/static/media/delhi.16cff21a8df125e2f97a.jpg",
-    "static/media/traveler4.jpg": "/flyMe/static/media/traveler4.2f2bc556c0551514912e.jpg",
-    "static/media/gridWindow3.jpg": "/flyMe/static/media/gridWindow3.67713e6009b68216d97a.jpg",
-    "static/media/gridWindow2.jpg": "/flyMe/static/media/gridWindow2.7eeb572052eed894caa2.jpg",
     "static/media/plane2.png": "/flyMe/static/media/plane2.f2298ce3063f18b52053.png",
-    "static/media/gridWindow1.jpg": "/flyMe/static/media/gridWindow1.9aaf61e63a7af5797947.jpg",
-    "static/media/paris.jpg": "/flyMe/static/media/paris.4e5d974ae7f7adee514f.jpg",
-    "static/media/traveler1.jpg": "/flyMe/static/media/traveler1.74207f9847b25f023b01.jpg",
-    "static/media/traveler5.jpg": "/flyMe/static/media/traveler5.d9af80f240265325861a.jpg",
+    "static/media/windows.png": "/flyMe/static/media/windows.2410ed43467d5226508a.png",
     "static/media/logo.png": "/flyMe/static/media/logo.7f7495f9e72b39608fb3.png",
     "index.html": "/flyMe/index.html",
-    "main.c2accbdb.css.map": "/flyMe/static/css/main.c2accbdb.css.map",
-    "main.2f3ea3d6.js.map": "/flyMe/static/js/main.2f3ea3d6.js.map",
+    "main.b67ed35f.css.map": "/flyMe/static/css/main.b67ed35f.css.map",
+    "main.0ac3f117.js.map": "/flyMe/static/js/main.0ac3f117.js.map",
     "787.a21d4119.chunk.js.map": "/flyMe/static/js/787.a21d4119.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2accbdb.css",
-    "static/js/main.2f3ea3d6.js"
+    "static/css/main.b67ed35f.css",
+    "static/js/main.0ac3f117.js"
   ]
 }
