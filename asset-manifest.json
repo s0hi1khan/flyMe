@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/flyMe/static/css/main.2705f2b7.css",
-    "main.js": "/flyMe/static/js/main.061f38fa.js",
+    "main.css": "/flyMe/static/css/main.fb14d3f6.css",
+    "main.js": "/flyMe/static/js/main.642405e8.js",
     "static/js/787.a21d4119.chunk.js": "/flyMe/static/js/787.a21d4119.chunk.js",
     "static/media/video2.mp4": "/flyMe/static/media/video2.0bca23ec6dd35d017162.mp4",
     "static/media/traveler3.jpg": "/flyMe/static/media/traveler3.41901dde6ae30dbbe8a5.jpg",
@@ -21,12 +21,12 @@
     "static/media/traveler6.jpg": "/flyMe/static/media/traveler6.16fa59165809d3ad4da5.jpg",
     "static/media/logo.png": "/flyMe/static/media/logo.7f7495f9e72b39608fb3.png",
     "index.html": "/flyMe/index.html",
-    "main.2705f2b7.css.map": "/flyMe/static/css/main.2705f2b7.css.map",
-    "main.061f38fa.js.map": "/flyMe/static/js/main.061f38fa.js.map",
+    "main.fb14d3f6.css.map": "/flyMe/static/css/main.fb14d3f6.css.map",
+    "main.642405e8.js.map": "/flyMe/static/js/main.642405e8.js.map",
     "787.a21d4119.chunk.js.map": "/flyMe/static/js/787.a21d4119.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2705f2b7.css",
-    "static/js/main.061f38fa.js"
+    "static/css/main.fb14d3f6.css",
+    "static/js/main.642405e8.js"
   ]
 }
